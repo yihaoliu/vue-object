@@ -4,7 +4,7 @@
 ## 应用的开源框架
 -  vue-material:  一个material风格的css ui框架
 -  vue-router: vue的路由框架
--  axios:  Vue的路由框架
+-  axios:  Vue的数据访问插件
 -  vuex:  vue的数据管理框架
 
 ## Plugin of production
